@@ -1,2 +1,1 @@
-# HelloWorld
-A Hello World Assignment for CSC 430
+Hi my name is Matt Drong. I am a Computer Science Major with a Game Design Minor.
